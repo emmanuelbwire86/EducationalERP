@@ -1,0 +1,2 @@
+FROM odoo:latest
+COPY . /mnt/extra-addons
